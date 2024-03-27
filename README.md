@@ -1,5 +1,8 @@
 readme de exemplo
 😄
+
+lembrei do comando: git commit
+
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
